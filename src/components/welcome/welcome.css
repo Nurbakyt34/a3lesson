@@ -8,6 +8,7 @@
 
     .welcome-text {
         align-items: center;
+        margin-top: 160px;
 
         h2 {
             font-size: 80px;

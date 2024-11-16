@@ -5,6 +5,7 @@
 
 body {
     /* font-family: "Poppins", sans-serif; */
+    /* background: rgb(233, 232, 232); */
 }
 
 * {
@@ -18,7 +19,8 @@ button{
 }
 
 .container {
-    width: 1440px;
+    display: flex;
+    width: 1237px;
     /* border: 1px solid red; */
     margin: auto;
 

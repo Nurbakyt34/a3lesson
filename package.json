@@ -1,5 +1,5 @@
 {
-  "homepage": "https://com/Nurbakyt34.github.io/a3lesson",
+  "homepage": "https://nurbakyt34.github.io/a3lesson/",
   "name": "react1",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
